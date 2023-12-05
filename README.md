@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python chatbot.py
 ```
 
-Do have to wait a few seconds for initalisation. Please ignore the warnings for now.
+Do have to wait up to a minute for initalisation. Please ignore the warnings for now. 
 
 Type in prompt in terminal when you see the input "Ask me:".
 
