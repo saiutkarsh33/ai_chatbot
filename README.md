@@ -1,6 +1,6 @@
 # Offline Assessment for Nika.eco
 
-API Keys are not enclosed as environment variables for easage of testing.
+API Keys are not enclosed as environment variables for ease of testing.
 
 **Set Up a Virtual Environment**:
 
