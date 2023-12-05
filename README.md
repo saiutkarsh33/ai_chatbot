@@ -1,6 +1,6 @@
 # Offline Assessment for Nika.eco
 
-API Keys are not enclosed as environment variables for ease of testing.
+Refer to my email for the relevant API keys
 
 **Set Up a Virtual Environment**:
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python chatbot.py
 ```
 
-Do have to wait up to a minute for initalisation. Please ignore the warnings for now. 
+Do have to wait up to a minute for initalisation. Please ignore the warnings for now, my apologies.
 
 Type in prompt in terminal when you see the input "Ask me:".
 
