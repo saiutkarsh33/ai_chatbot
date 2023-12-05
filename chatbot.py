@@ -8,10 +8,10 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma, Pinecone
 import pinecone
 
-OPENAI_API_KEY= "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"
+OPENAI_API_KEY= ""
 
-PINECONE_API_KEY = 'bddec5a8-5feb-46ca-a626-2a7ce7abe8e2'
-PINECONE_API_ENV = 'gcp-starter'
+PINECONE_API_KEY = ''
+PINECONE_API_ENV = ''
 index_name = "nika-chatbot"
 
 embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
