@@ -21,8 +21,8 @@ pip install -r requirements.txt
 python chatbot.py
 ```
 
-Do have to wait a few seconds for initalisation.
+Do have to wait a few seconds for initalisation. Please ignore the warnings for now.
 
 Type in prompt in terminal when you see the input "Ask me:".
 
-Type in "quit" to exit. the chatbot conversation.
+Type in "quit" to exit the chatbot conversation.
