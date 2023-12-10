@@ -1,6 +1,6 @@
-# Offline Assessment for Nika.eco
+# Easy Chatbot using OPENAI's API
 
-Refer to my email for the relevant API keys
+Have to use your own API Keys.
 
 **Set Up a Virtual Environment**:
 
